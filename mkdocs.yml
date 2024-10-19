@@ -1,0 +1,5 @@
+site_name: Test Project
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
